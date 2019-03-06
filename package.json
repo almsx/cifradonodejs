@@ -1,0 +1,14 @@
+{
+  "name": "cifrado",
+  "version": "1.0.0",
+  "description": "Pruebas",
+  "main": "cifrado.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "almsx",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
